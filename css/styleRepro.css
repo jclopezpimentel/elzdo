@@ -1,0 +1,104 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27-jul-2016, 5:45:34
+    Author     : Luis Salgado
+*/
+#playlist, #player {
+width: 400px; /* Ancho de todo el contenedor */
+padding: 20px;
+margin: 0 auto;
+display: block;
+text-align: center;
+}
+#titu{
+   font-family: 'Trebuchet MS', Trebuchet, Verdana, sans-serif;
+   color: #CCC;
+}
+
+#comentarios{
+width: 100%; /* Ancho de todo el contenedor */
+padding: 10px;
+margin: 0 auto;
+display: block;
+text-align: center;
+}
+#player {
+    width: 100%;
+/* Imagen de fondo del primer contenedor */
+background: url(//lh3.googleusercontent.com/-9dx_GmP6Yeg/U06qBO9M4EI/AAAAAAAAFEY/FXrhlltF7xc/s300/bg.png);
+padding: 10px 20px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+}
+audio {
+width:300px; /* Ancho del reproductor */
+margin:0 auto;
+display: inline-block
+}
+#player:after {
+/* Imagen animada */
+content: url(//lh3.googleusercontent.com/-KoD5KVOAsGQ/U1B_dWFttoI/AAAAAAAAFFc/uJ3SjLPlDHQ/s75/equalizador.gif);
+padding-left: 10px;
+}
+#playlist {
+ width: 100%;
+margin: 0 auto 20px auto;
+display: block;
+background: #424242; /* Fondo del segundo contenedor */
+border-top: 5px solid #9F111B;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+text-align: left;
+font-size: 12px; /* Estilos de fuente */
+font-family: 'Trebuchet MS', Trebuchet, Verdana, sans-serif;
+font-weight: normal;
+}
+#playlist li, #playlist ul li {
+background-image: none;
+list-style-type: none;
+padding: 0;
+margin: 0;
+}
+.promos{
+color: #CCC; /* Color de las canciones */
+background: #222; /* Fondo de las canciones */
+}
+a:hover{
+	color: white;
+}
+#playlist li a{
+cursor: pointer;
+text-decoration: none;
+padding: 7px 5px;
+display: block;
+padding-left: 10px;
+}
+
+.active-promo{
+	font-weight: bold;
+	color: #CCC;
+	background: #D32F2F;
+}
+
+/*#playlist .active a {
+color: #B11623;  Color de la canción activa 
+font-style: italic;
+text-decoration: none;
+}*/
+/*#playlist .active a:before {
+content: "\25B6";
+color: #CCC;
+font-style: normal;
+padding-right: 8px;
+}*/
+/*#playlist .active a:hover {
+color: #222;  Color de la canción activa al pasar el cursor 
+}*/
+.audio-lista{
+	max-height: 300px;
+	overflow-y: scroll;
+}

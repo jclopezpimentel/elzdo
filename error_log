@@ -1,0 +1,299 @@
+[22-Sep-2016 01:34:51 America/Mexico_City] PHP Parse error:  syntax error, unexpected '}' in /home2/majualu1/public_html/application/views/canciones/canciones.php on line 11
+[27-Sep-2016 17:30:53 America/Mexico_City] PHP Fatal error:  Call to a member function deleteForo() on a non-object in /home2/majualu1/public_html/application/controllers/Admin_educationyderechos.php on line 225
+[27-Sep-2016 17:30:59 America/Mexico_City] PHP Fatal error:  Call to a member function deleteForo() on a non-object in /home2/majualu1/public_html/application/controllers/Admin_educationyderechos.php on line 225
+[27-Sep-2016 17:31:00 America/Mexico_City] PHP Fatal error:  Call to a member function deleteForo() on a non-object in /home2/majualu1/public_html/application/controllers/Admin_educationyderechos.php on line 225
+[03-Oct-2016 20:35:29 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home2/majualu1/public_html/application/controllers/AdminLibro.php on line 80
+[06-Oct-2016 18:28:12 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:21 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:26 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:26 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:26 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:26 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:27 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:27 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:27 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:52 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:52 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:53 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:53 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:53 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:54 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:54 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:54 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:54 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:54 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:55 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:55 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:28:55 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:29:10 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:29:12 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:29:12 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:29:13 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:29:13 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:29:14 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:29:14 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:29:14 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:29:14 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:29:15 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:29:15 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:29:16 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:29:16 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:29:16 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:29:17 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:04 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:08 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:08 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:09 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:09 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:10 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:10 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:10 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:11 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:11 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:12 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:12 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:12 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:13 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:13 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:13 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:13 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:13 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:13 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:18 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:18 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:18 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:25 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:26 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:26 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:26 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:26 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:27 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:27 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:27 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:27 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:27 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:27 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:27 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:28 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:28 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:28 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:30:54 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:30:57 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:30:58 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:30:58 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:30:58 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:30:58 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:30:58 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:30:59 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:30:59 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:30:59 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:30:59 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:30:59 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:30:59 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:31:00 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:31:00 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:31:00 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:31:00 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:31:01 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:31:01 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:31:01 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:31:01 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:31:02 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:31:02 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 280
+[06-Oct-2016 18:34:07 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:11 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:11 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:11 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:12 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:12 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:12 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:13 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:13 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:13 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:13 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:13 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:14 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:14 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:14 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:14 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:14 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:14 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:19 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:34:19 America/Mexico_City] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::fetch_assoc() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 278
+[06-Oct-2016 18:36:43 America/Mexico_City] PHP Fatal error:  Cannot use object of type mysqli as array in /home2/majualu1/public_html/application/controllers/Inicio.php on line 279
+[06-Oct-2016 18:37:03 America/Mexico_City] PHP Fatal error:  Cannot use object of type mysqli as array in /home2/majualu1/public_html/application/controllers/Inicio.php on line 279
+[06-Oct-2016 18:37:03 America/Mexico_City] PHP Fatal error:  Cannot use object of type mysqli as array in /home2/majualu1/public_html/application/controllers/Inicio.php on line 279
+[06-Oct-2016 18:37:03 America/Mexico_City] PHP Fatal error:  Cannot use object of type mysqli as array in /home2/majualu1/public_html/application/controllers/Inicio.php on line 279
+[06-Oct-2016 18:37:03 America/Mexico_City] PHP Fatal error:  Cannot use object of type mysqli as array in /home2/majualu1/public_html/application/controllers/Inicio.php on line 279
+[06-Oct-2016 18:37:04 America/Mexico_City] PHP Fatal error:  Cannot use object of type mysqli as array in /home2/majualu1/public_html/application/controllers/Inicio.php on line 279
+[06-Oct-2016 18:37:04 America/Mexico_City] PHP Fatal error:  Cannot use object of type mysqli as array in /home2/majualu1/public_html/application/controllers/Inicio.php on line 279
+[06-Oct-2016 18:37:04 America/Mexico_City] PHP Fatal error:  Cannot use object of type mysqli as array in /home2/majualu1/public_html/application/controllers/Inicio.php on line 279
+[06-Oct-2016 18:37:05 America/Mexico_City] PHP Fatal error:  Cannot use object of type mysqli as array in /home2/majualu1/public_html/application/controllers/Inicio.php on line 279
+[06-Oct-2016 18:38:13 America/Mexico_City] PHP Fatal error:  Cannot use object of type mysqli as array in /home2/majualu1/public_html/application/controllers/Inicio.php on line 279
+[06-Oct-2016 18:38:15 America/Mexico_City] PHP Fatal error:  Cannot use object of type mysqli as array in /home2/majualu1/public_html/application/controllers/Inicio.php on line 279
+[06-Oct-2016 18:38:15 America/Mexico_City] PHP Fatal error:  Cannot use object of type mysqli as array in /home2/majualu1/public_html/application/controllers/Inicio.php on line 279
+[06-Oct-2016 18:38:16 America/Mexico_City] PHP Fatal error:  Cannot use object of type mysqli as array in /home2/majualu1/public_html/application/controllers/Inicio.php on line 279
+[06-Oct-2016 18:38:16 America/Mexico_City] PHP Fatal error:  Cannot use object of type mysqli as array in /home2/majualu1/public_html/application/controllers/Inicio.php on line 279
+[06-Oct-2016 18:38:16 America/Mexico_City] PHP Fatal error:  Cannot use object of type mysqli as array in /home2/majualu1/public_html/application/controllers/Inicio.php on line 279
+[06-Oct-2016 18:47:51 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:53 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:53 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:53 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:54 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:54 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:54 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:54 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:57 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:57 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:58 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:58 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:58 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:58 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:59 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:59 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:59 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:59 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:59 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:47:59 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:48:00 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:48:00 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:48:00 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:48:01 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:48:01 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:48:49 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:48:53 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:48:56 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:48:56 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:48:56 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:48:57 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:50:46 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:50:48 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:50:51 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:50:52 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:50:52 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:50:52 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:51:15 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:51:15 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:51:15 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:51:47 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:51:47 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:51:47 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:51:47 America/Mexico_City] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 48
+[06-Oct-2016 18:59:44 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home2/majualu1/public_html/application/controllers/Inicio.php on line 254
+[06-Oct-2016 19:28:29 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:28:50 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:28:50 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:28:50 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:28:51 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:28:51 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:28:51 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:28:52 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:28:52 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:28:53 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:30:53 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:30:55 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:30:56 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:30:56 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:30:56 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:30:56 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:34:45 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:34:45 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:34:45 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:34:45 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:35:52 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:35:53 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:35:53 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:35:54 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:35:55 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:35:56 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:35:56 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:35:56 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:35:56 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:35:56 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:35:57 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:35:57 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:37:54 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:37:57 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:37:57 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:37:57 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:37:57 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:37:57 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:37:57 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:37:58 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:38:39 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:38:40 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:38:40 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:38:40 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:38:41 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:38:41 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:39:43 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:39:46 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:39:46 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:39:46 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:39:47 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:39:47 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:39:47 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:41:47 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:41:51 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:41:51 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:41:51 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:41:52 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:41:52 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:41:52 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:41:53 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:41:53 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:41:54 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:41:54 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:41:54 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 260
+[06-Oct-2016 19:42:29 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:42:30 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:42:31 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:42:31 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:42:31 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:42:31 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:42:32 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:42:32 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:42:33 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:42:33 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:42:33 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:42:33 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:43:01 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:43:03 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:43:03 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:43:03 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:43:03 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:43:03 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:43:04 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:43:04 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:43:04 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:43:04 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:43:04 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:43:05 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 261
+[06-Oct-2016 19:44:08 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 246
+[06-Oct-2016 19:44:10 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 246
+[06-Oct-2016 19:44:11 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 246
+[06-Oct-2016 19:44:11 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 246
+[06-Oct-2016 19:44:12 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 246
+[06-Oct-2016 19:44:13 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 246
+[06-Oct-2016 19:44:13 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 246
+[06-Oct-2016 19:44:13 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 246
+[06-Oct-2016 19:44:14 America/Mexico_City] PHP Fatal error:  Call to undefined function generarLinkTemporal() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 246
+[06-Oct-2016 19:52:22 America/Mexico_City] PHP Fatal error:  Call to undefined function now() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 271
+[06-Oct-2016 19:52:26 America/Mexico_City] PHP Fatal error:  Call to undefined function now() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 271
+[06-Oct-2016 19:53:27 America/Mexico_City] PHP Fatal error:  Call to undefined function now() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 271
+[06-Oct-2016 19:53:28 America/Mexico_City] PHP Fatal error:  Call to undefined function now() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 271
+[06-Oct-2016 19:53:28 America/Mexico_City] PHP Fatal error:  Call to undefined function now() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 271
+[06-Oct-2016 19:53:28 America/Mexico_City] PHP Fatal error:  Call to undefined function now() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 271
+[06-Oct-2016 19:53:29 America/Mexico_City] PHP Fatal error:  Call to undefined function now() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 271
+[06-Oct-2016 19:53:29 America/Mexico_City] PHP Fatal error:  Call to undefined function now() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 271
+[06-Oct-2016 19:53:29 America/Mexico_City] PHP Fatal error:  Call to undefined function now() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 271
+[06-Oct-2016 19:53:30 America/Mexico_City] PHP Fatal error:  Call to undefined function now() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 271
+[06-Oct-2016 19:53:30 America/Mexico_City] PHP Fatal error:  Call to undefined function now() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 271
+[06-Oct-2016 19:56:55 America/Mexico_City] PHP Fatal error:  Call to undefined function now() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 271
+[06-Oct-2016 19:56:56 America/Mexico_City] PHP Fatal error:  Call to undefined function now() in /home2/majualu1/public_html/application/controllers/Inicio.php on line 271
+[06-Oct-2016 22:38:18 America/Mexico_City] PHP Fatal error:  Call to a member function verificarEmail() on a non-object in /home2/majualu1/public_html/application/controllers/Contacto.php on line 115
+[06-Oct-2016 22:38:21 America/Mexico_City] PHP Fatal error:  Call to a member function verificarEmail() on a non-object in /home2/majualu1/public_html/application/controllers/Contacto.php on line 115
+[06-Oct-2016 22:38:51 America/Mexico_City] PHP Fatal error:  Call to a member function verificarEmail() on a non-object in /home2/majualu1/public_html/application/controllers/Contacto.php on line 115
+[06-Oct-2016 22:38:52 America/Mexico_City] PHP Fatal error:  Call to a member function verificarEmail() on a non-object in /home2/majualu1/public_html/application/controllers/Contacto.php on line 115
+[06-Oct-2016 22:38:53 America/Mexico_City] PHP Fatal error:  Call to a member function verificarEmail() on a non-object in /home2/majualu1/public_html/application/controllers/Contacto.php on line 115
+[07-Oct-2016 00:33:18 America/Mexico_City] PHP Parse error:  syntax error, unexpected 'deleteReset' (T_STRING), expecting variable (T_VARIABLE) in /home2/majualu1/public_html/application/models/UsuariosModel.php on line 140
