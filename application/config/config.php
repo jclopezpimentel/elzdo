@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 //$config['base_url'] = 'http://enloszapatosdelotro.com.mx/';
-$config['base_url'] = 'http://localhost/zapa/';
+$config['base_url'] = 'http://localhost/elzdo/';
 
 /*
 |--------------------------------------------------------------------------
